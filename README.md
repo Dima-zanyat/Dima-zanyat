@@ -17,7 +17,11 @@ Backend-разработчик с опытом создания REST API и back
   <img src="https://img.shields.io/badge/HTTPX-Async%20HTTP-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pytest-Testing-yellow?style=for-the-badge" />
 </p>
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima-zanyat&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact)
 ---
 
 ## 🚀 Проекты
