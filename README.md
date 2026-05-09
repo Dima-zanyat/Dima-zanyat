@@ -6,16 +6,17 @@ Backend-разработчик с опытом создания REST API и back
 
 ## 🛠 Стек
 
-- Python
-- Django / DRF
-- Flask / FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Docker
-- Nginx
-- REST API
-- asyncio / HTTPX
-- Git / Linux
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,docker,git,linux,nginx,react,js,html,css,bash" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/asyncio-Async%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTPX-Async%20HTTP-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pytest-Testing-yellow?style=for-the-badge" />
+</p>
 
 ---
 
