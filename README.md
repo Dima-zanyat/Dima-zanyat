@@ -22,7 +22,7 @@ Backend-разработчик с опытом создания REST API и back
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dima-zanyat&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api?username=Dima-zanyat&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Проекты
