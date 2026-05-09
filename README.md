@@ -20,9 +20,9 @@ Backend-разработчик с опытом создания REST API и back
 
 ## 📊 GitHub Stats
 
-![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dima-zanyat&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dima-zanyat&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact&theme=tokyonight)
 ---
 
 ## 🚀 Проекты
