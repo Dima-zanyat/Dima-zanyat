@@ -18,15 +18,6 @@ Backend-разработчик с опытом создания REST API и back
   <img src="https://img.shields.io/badge/Pytest-Testing-yellow?style=for-the-badge" />
 </p>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dima-zanyat&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dima-zanyat&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dima-zanyat&theme=tokyonight&hide_border=true)
----
-
 ## 🚀 Проекты
 
 ### 📊 Product Revision
