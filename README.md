@@ -18,9 +18,11 @@ Backend-разработчик с опытом создания REST API и back
   <img src="https://img.shields.io/badge/Pytest-Testing-yellow?style=for-the-badge" />
 </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact&theme=tokyonight&hide_border=true)
 ## 📊 GitHub Stats
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dima-zanyat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dima-zanyat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dima-zanyat&theme=tokyonight&hide_border=true)
 ---
 
