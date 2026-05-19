@@ -25,7 +25,7 @@ Backend-разработчик с опытом создания REST API и back
 Сервис управления структурой организации с поддержкой иерархии подразделений и сотрудников.
 
 Стек:
-Python, Django, DRF, PostgreSQL, Docker, Nginx
+Python, Django, DRF, PostgreSQL, Docker, Nginx, Pydentic
 
 🔗 https://github.com/Dima-zanyat/organization_api
 
