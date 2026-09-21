@@ -19,6 +19,16 @@ Backend-разработчик с опытом создания REST API и back
 </p>
 
 ## 🚀 Проекты
+### 📊 PlusDesign
+Сервис для дизайн студиии.
+
+Стек:
+Бэкенд: Python 3.11+, FastAPI, SQLAlchemy 2.0 (async), asyncpg, Alembic, Pydantic v2
+База данных: PostgreSQL 16
+Тесты: pytest, pytest-asyncio, httpx
+Линт: ruff
+Фронтенд: React + TypeScript, Vite, локально http://localhost:5173
+🔗 https://github.com/Dima-zanyat/Plus-Design
 
 ### 📊 Organization API
 
